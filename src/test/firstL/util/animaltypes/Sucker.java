@@ -1,6 +1,6 @@
-package test.util.animaltypes;
+package test.firstL.util.animaltypes;
 
-import test.util.Animal;
+import test.firstL.util.Animal;
 
 public class Sucker extends Animal {
 

@@ -1,4 +1,4 @@
-package test.util;
+package test.firstL.util;
 
 public class Animal {
     private String name;

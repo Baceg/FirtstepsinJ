@@ -1,4 +1,4 @@
-package test.main;
+package test.firstL.main;
 
 public class Greeter {
         public void sayHello(String text){

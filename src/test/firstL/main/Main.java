@@ -1,7 +1,7 @@
-package test.main;
+package test.firstL.main;
 
-import test.util.Animal;
-import test.util.animaltypes.Sucker;
+import test.firstL.util.Animal;
+import test.firstL.util.animaltypes.Sucker;
 
 public class Main {
     public static void main(String[] args) {
