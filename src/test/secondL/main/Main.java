@@ -5,19 +5,12 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        while (true) {
-            String string = scanner.next();
-            System.out.println(string);
-
-            System.out.println(string.indexOf("la"));
-
-//            metoda parse ze stringu na zmienna
-            Integer integer = Integer.parseInt(string);
-            System.out.println(integer.compareTo(4));
-        }
+     //   tst();
+        return;
     }
+
+
+
     public void tst() {
             int i = 2;
             Integer j = 5;
